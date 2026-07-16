@@ -12,3 +12,6 @@ To keep projects independent while making them discoverable, please add your rep
 git submodule add https://github.com/<username>/<repository>.git <repository>
 git commit -m "Add <repository> as submodule"
 git push
+```
+
+Please place the submodule in the repository root and open a Pull Request with a short description of the project.
